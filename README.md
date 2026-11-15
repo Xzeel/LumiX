@@ -29,6 +29,6 @@ Server Software : Paper recommended
 
 ```
 © 2026 XzeelArcadia.
-© 2026 LumiX. All Rights Reserved.
+© 2026 LumiX. Apache-2.0 Licensed.
 © 2025-2026 Lumistra. All Rights Reserved.
 ```
