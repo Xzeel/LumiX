@@ -1,7 +1,5 @@
 ![LumiX](https://github.com/Xzeel/LumiX/blob/main/assets/LumiX_Banner.png?raw=true)
 
----
-
 <div align="center">
 
 ![Environment](https://img.shields.io/badge/Loader-Paper-green?style=for-the-badge)
